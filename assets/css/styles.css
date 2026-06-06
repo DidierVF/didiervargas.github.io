@@ -220,7 +220,6 @@ nav a:hover, nav a.active {
 
 .btn-primary {
     background: linear-gradient(-90deg, var(--azul-claro), var(--azul-medio));
-    border-color: var(--azul-claro);
     color: white;
 }
 
@@ -231,7 +230,6 @@ nav a:hover, nav a.active {
 
 .btn-secondary {
     background: linear-gradient(-90deg, var(--azul-claro), var(--azul-medio));
-    border-color: var(--azul-claro);
     color: white;
 }
 
